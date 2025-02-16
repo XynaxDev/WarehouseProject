@@ -72,6 +72,7 @@ After successful compilation, run the executable from your terminal:
 
 ## Contact
 For any questions or feedback, please contact me at:
+<br>
 Email: workforxynax@gmail.com
 
-<p align = "center">Thank you for checking out my Warehouse Inventory Management System repository. I hope you find the code and documentation both useful and informative. Your feedback and suggestions are welcome. Happy Coding! 😊 </p>
+Thank you for checking out my Warehouse Inventory Management System repository. I hope you find the code and documentation both useful and informative. Your feedback and suggestions are welcome. Happy Coding! 😊
