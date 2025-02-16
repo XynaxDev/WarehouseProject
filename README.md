@@ -58,7 +58,7 @@ The Warehouse Inventory System demonstrates the following key concepts:
 To compile the code, use a C++ compiler such as `g++`. For example:
 
 ```bash
-g++ WarehouseInventorySystem.cpp
+g++ -o inventory WarehouseInventorySystem.cpp
 ```
 
 ## Execution
@@ -75,4 +75,4 @@ For any questions or feedback, please contact me at:
 <br>
 Email: workforxynax@gmail.com
 
-Thank you for checking out my Warehouse Inventory Management System repository. I hope you find the code and documentation both useful and informative. Your feedback and suggestions are welcome. Happy Coding! 😊
+Thank you for checking out my Warehouse Inventory Management System repository. I hope you find the code and documentation both useful and informative. Happy Coding! 😊
