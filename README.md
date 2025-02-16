@@ -68,8 +68,6 @@ After successful compilation, run the executable from your terminal:
 ./inventory
 ```
 
----
-
 ## Contact
 For any questions or feedback, please contact me at:
 <br>
