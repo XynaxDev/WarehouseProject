@@ -75,4 +75,3 @@ Email: workforxynax@gmail.com
 
 Thank you for checking out my Warehouse Inventory Management System repository. I hope you find the code and documentation both useful and informative. Happy Coding! 😊
 
-sync update
